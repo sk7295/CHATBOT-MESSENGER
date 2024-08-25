@@ -2,10 +2,10 @@
  
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=BEARZ+CHATBOT+MESSENGER+!)](https://github.com/LittleBearz160/BEARZ-BOT-FACEBOOK-MESSENGER)
 
-#### *MIRAI PROJECT*
+#### *SHANKAR-PROJECT*
 ***
 
-### ✅ **SERVER DISCORD NHẬN HỖ TRỢ CỦA BEARZ** 
+### ✅ **FEEL THE POWER OF SHANKAR SUMAN** 
 <BR>
 <p align="center">
 <a href="https://discord.gg/little-bearz"><img src="https://media.discordapp.net/attachments/919658410788679691/919957032453427250/standard.gif"></a>
